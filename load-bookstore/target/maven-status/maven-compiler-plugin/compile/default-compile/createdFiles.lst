@@ -1,0 +1,6 @@
+org/agoncal/fascicle/quarkus/load/Endpoint.class
+org/agoncal/fascicle/quarkus/load/ScenarioBook.class
+org/agoncal/fascicle/quarkus/load/BookStoreLoad.class
+org/agoncal/fascicle/quarkus/load/ScenarioInvoker.class
+org/agoncal/fascicle/quarkus/load/WeightedRandomResult.class
+org/agoncal/fascicle/quarkus/load/ScenarioNumber.class
