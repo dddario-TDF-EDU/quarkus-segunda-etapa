@@ -1,0 +1,9 @@
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/client/NumberProxy.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/client/IsbnNumbers.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/BookApplicationLifeCycle.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/health/PingBookResourceHealthCheck.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/BookResource.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/Book.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/BookApplication.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/BookService.java
+/home/dario/Proyecto/libroTerminado/quarkus-inicio/rest-book/src/main/java/org/agoncal/fascicle/quarkus/book/health/DatabaseConnectionHealthCheck.java

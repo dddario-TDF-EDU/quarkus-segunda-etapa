@@ -1,0 +1,10 @@
+org/agoncal/fascicle/quarkus/book/BookResource.class
+org/agoncal/fascicle/quarkus/book/Book.class
+org/agoncal/fascicle/quarkus/book/client/IsbnNumbers.class
+org/agoncal/fascicle/quarkus/book/health/DatabaseConnectionHealthCheck.class
+org/agoncal/fascicle/quarkus/book/client/NumberProxy.class
+org/agoncal/fascicle/quarkus/book/BookService.class
+META-INF/panache-archive.marker
+org/agoncal/fascicle/quarkus/book/BookApplicationLifeCycle.class
+org/agoncal/fascicle/quarkus/book/BookApplication.class
+org/agoncal/fascicle/quarkus/book/health/PingBookResourceHealthCheck.class

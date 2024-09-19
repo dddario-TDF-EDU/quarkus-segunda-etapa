@@ -1,0 +1,6 @@
+org/agoncal/fascicle/quarkus/book/NativeBookResourceIT.class
+META-INF/panache-archive.marker
+org/agoncal/fascicle/quarkus/book/BookResourceTest.class
+org/agoncal/fascicle/quarkus/book/infrastructure/Database.class
+org/agoncal/fascicle/quarkus/book/client/MockNumberProxy.class
+org/agoncal/fascicle/quarkus/book/BookResourceTest$1.class
